@@ -60,3 +60,9 @@ img {
 a{
     color:#6f4e37 !important;
 }
+
+iframe{
+    border: none; 
+    width: 100%;
+    height: 400px;
+}
